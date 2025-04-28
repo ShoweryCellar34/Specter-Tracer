@@ -1,0 +1,9 @@
+[submodule "vendors/glfw"]
+	path = vendors/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "vendors/stb/stb"]
+	path = vendors/stb/stb
+	url = https://github.com/nothings/stb.git
+[submodule "vendors/cglm"]
+	path = vendors/cglm
+	url = https://github.com/recp/cglm.git
