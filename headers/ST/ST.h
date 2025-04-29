@@ -4,8 +4,6 @@
 extern "C" {
 #endif
 
-#include "renderTarget.h"
-
 #ifdef __cplusplus
 }
 #endif
